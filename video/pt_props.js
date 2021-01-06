@@ -1,7 +1,7 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "",
+        "text": "电影",
         "link": "video/video.html"
     },
     'next': undefined,
@@ -9,36 +9,34 @@ export default {
     'pagePath': "video/pt.md",
     'layoutPath': "_layout.tsx",
     'outputPath': "video/pt.html",
-    'title': "",
+    'title': "PT",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1></h1>\n<h3 id="pt">PT<a class="anchor" href="#pt">§</a></h3>\n<!-- ### pt\n\n\n- [Rarbg.com](http://rarbg.com/)\n- [Download music, movies, games, software! The Pirate Bay - The world&#39;s most resilient BitTorrent site](http://thepiratebay.ee/)\n- [Pornhub](http://www.pornhub.com/)\n- [Redtube](http://www.redtube.com/)\n- [youporn](http://www.youporn.com/)\n- [Jav asa1253  asa159786](http://www.javlibrary.com/)\n- [BitTorrent](http://rutracker.org/)\n- [XVIDEOS.COM](https://www.xvideos.com/)\n- [ThisAV.com](http://thisav.com/)\n- [BabyTorrent](https://babytorrent.vip/)\n\n -->'
+            __html: '<h1>PT</h1>\n<!-- ### pt\n\n\n- [Rarbg.com](http://rarbg.com/)\n- [Download music, movies, games, software! The Pirate Bay - The world&#39;s most resilient BitTorrent site](http://thepiratebay.ee/)\n- [Pornhub](http://www.pornhub.com/)\n- [Redtube](http://www.redtube.com/)\n- [youporn](http://www.youporn.com/)\n- [Jav asa1253  asa159786](http://www.javlibrary.com/)\n- [BitTorrent](http://rutracker.org/)\n- [XVIDEOS.COM](https://www.xvideos.com/)\n- [ThisAV.com](http://thisav.com/)\n- [BabyTorrent](https://babytorrent.vip/)\n\n -->'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }),
+    'contentTitle': React.createElement("h1", { key: "0" }, "PT"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h3 id="pt">PT<a class="anchor" href="#pt">§</a></h3>\n<!-- ### pt\n\n\n- [Rarbg.com](http://rarbg.com/)\n- [Download music, movies, games, software! The Pirate Bay - The world&#39;s most resilient BitTorrent site](http://thepiratebay.ee/)\n- [Pornhub](http://www.pornhub.com/)\n- [Redtube](http://www.redtube.com/)\n- [youporn](http://www.youporn.com/)\n- [Jav asa1253  asa159786](http://www.javlibrary.com/)\n- [BitTorrent](http://rutracker.org/)\n- [XVIDEOS.COM](https://www.xvideos.com/)\n- [ThisAV.com](http://thisav.com/)\n- [BabyTorrent](https://babytorrent.vip/)\n\n -->'
+            __html: '<!-- ### pt\n\n\n- [Rarbg.com](http://rarbg.com/)\n- [Download music, movies, games, software! The Pirate Bay - The world&#39;s most resilient BitTorrent site](http://thepiratebay.ee/)\n- [Pornhub](http://www.pornhub.com/)\n- [Redtube](http://www.redtube.com/)\n- [youporn](http://www.youporn.com/)\n- [Jav asa1253  asa159786](http://www.javlibrary.com/)\n- [BitTorrent](http://rutracker.org/)\n- [XVIDEOS.COM](https://www.xvideos.com/)\n- [ThisAV.com](http://thisav.com/)\n- [BabyTorrent](https://babytorrent.vip/)\n\n -->'
         } }),
-    'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
-            __html: '<nav class="toc"><ol><li><a href="#pt">PT</a></li></ol></nav>'
-        } }),
+    'toc': null,
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T07:39:46.000Z",
+    'date': "2021-01-06T07:49:45.000Z",
     'updated': null,
-    'excerpt': "PT",
+    'excerpt': "",
     'cover': undefined,
     'sidebar': [
         {
             "link": "linux/index.html",
             "children": [
                 {
-                    "text": "",
+                    "text": "linux",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 }
@@ -47,25 +45,25 @@ export default {
             "text": "简介"
         },
         {
-            "text": "linux/README.md",
+            "text": "linux",
             "children": [
                 {
-                    "text": "",
+                    "text": "linux",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 }
             ]
         },
         {
-            "text": "video/README.md",
+            "text": "video",
             "children": [
                 {
-                    "text": "",
+                    "text": "电影",
                     "link": "video/video.html",
                     "pagePath": "video/video.md"
                 },
                 {
-                    "text": "",
+                    "text": "PT",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
                 }

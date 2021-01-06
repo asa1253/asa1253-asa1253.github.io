@@ -4,7 +4,7 @@ export default {
         "link": "index.html"
     },
     'next': {
-        "text": "",
+        "text": "linux",
         "link": "linux/linux.html"
     },
     config: { "root": "/", ...projectConfig, branch: 'master' },
@@ -29,7 +29,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T07:39:46.000Z",
+    'date': "2021-01-06T07:49:45.000Z",
     'updated': null,
     'excerpt': "linu",
     'cover': undefined,
@@ -38,7 +38,7 @@ export default {
             "link": "linux/index.html",
             "children": [
                 {
-                    "text": "",
+                    "text": "linux",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 }
@@ -47,25 +47,25 @@ export default {
             "text": "简介"
         },
         {
-            "text": "linux/README.md",
+            "text": "linux",
             "children": [
                 {
-                    "text": "",
+                    "text": "linux",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 }
             ]
         },
         {
-            "text": "video/README.md",
+            "text": "video",
             "children": [
                 {
-                    "text": "",
+                    "text": "电影",
                     "link": "video/video.html",
                     "pagePath": "video/video.md"
                 },
                 {
-                    "text": "",
+                    "text": "PT",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
                 }

@@ -20,11 +20,11 @@ export default {
                 children: ['linux/linux.md'],
             },
             {
-                text: 'linux/README.md',
+                text: 'linux',
                 children: ['linux/linux.md'],
             },
             {
-                text: 'video/README.md',
+                text: 'video',
                 children: [
                     'video/video.md',
                     'video/pt.md',
