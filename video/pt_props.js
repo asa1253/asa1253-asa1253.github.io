@@ -27,7 +27,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T08:02:09.000Z",
+    'date': "2021-01-06T08:12:16.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined,
@@ -36,7 +36,7 @@ export default {
             "text": "linux",
             "children": [
                 {
-                    "text": "目录",
+                    "text": "linux",
                     "link": "linux/index.html",
                     "pagePath": "linux/README.md"
                 }
