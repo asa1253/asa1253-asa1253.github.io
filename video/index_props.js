@@ -26,7 +26,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T07:29:02.000Z",
+    'date': "2021-01-06T07:39:46.000Z",
     'updated': null,
     'excerpt': "视频 福利",
     'cover': undefined,
@@ -35,6 +35,7 @@ export default {
             "link": "linux/index.html",
             "children": [
                 {
+                    "text": "",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 }
@@ -46,6 +47,7 @@ export default {
             "text": "linux/README.md",
             "children": [
                 {
+                    "text": "",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 }
@@ -55,10 +57,12 @@ export default {
             "text": "video/README.md",
             "children": [
                 {
+                    "text": "",
                     "link": "video/video.html",
                     "pagePath": "video/video.md"
                 },
                 {
+                    "text": "",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
                 }
