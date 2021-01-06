@@ -16,15 +16,11 @@ export default {
     sidebar: {
         '/': [
             {
-                link: 'linux/README.md',
-                children: ['linux/linux.md'],
-            },
-            {
                 text: 'linux',
-                children: ['linux/linux.md'],
+                children: ['linux/README.md'],
             },
             {
-                text: 'video',
+                text: '视频',
                 children: [
                     'video/video.md',
                     'video/pt.md',

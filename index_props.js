@@ -26,38 +26,26 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T07:49:45.000Z",
+    'date': "2021-01-06T08:02:09.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined,
     'sidebar': [
         {
-            "link": "linux/index.html",
-            "children": [
-                {
-                    "text": "linux",
-                    "link": "linux/linux.html",
-                    "pagePath": "linux/linux.md"
-                }
-            ],
-            "pagePath": "linux/README.md",
-            "text": "简介"
-        },
-        {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
-                    "link": "linux/linux.html",
-                    "pagePath": "linux/linux.md"
+                    "text": "目录",
+                    "link": "linux/index.html",
+                    "pagePath": "linux/README.md"
                 }
             ]
         },
         {
-            "text": "video",
+            "text": "视频",
             "children": [
                 {
-                    "text": "电影",
+                    "text": "视频",
                     "link": "video/video.html",
                     "pagePath": "video/video.md"
                 },

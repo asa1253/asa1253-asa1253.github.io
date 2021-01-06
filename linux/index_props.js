@@ -4,63 +4,51 @@ export default {
         "link": "index.html"
     },
     'next': {
-        "text": "linux",
-        "link": "linux/linux.html"
+        "text": "视频",
+        "link": "video/video.html"
     },
     config: { "root": "/", ...projectConfig, branch: 'master' },
     'pagePath': "linux/README.md",
     'layoutPath': "_layout.tsx",
     'outputPath': "linux/index.html",
-    'title': "简介",
+    'title': "目录",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>简介</h1>\n<p><a href="linux.html">linu</a></p>'
+            __html: '<h1>目录</h1>\n<ul>\n<li>[linux]</li>\n<li>[电影]</li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "\u7B80\u4ECB"),
+    'contentTitle': React.createElement("h1", { key: "0" }, "\u76EE\u5F55"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<p><a href="linux.html">linu</a></p>'
+            __html: '<ul>\n<li>[linux]</li>\n<li>[电影]</li>\n</ul>'
         } }),
     'toc': null,
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T07:49:45.000Z",
+    'date': "2021-01-06T08:02:09.000Z",
     'updated': null,
-    'excerpt': "linu",
+    'excerpt': " - [linux] - [电影]",
     'cover': undefined,
     'sidebar': [
-        {
-            "link": "linux/index.html",
-            "children": [
-                {
-                    "text": "linux",
-                    "link": "linux/linux.html",
-                    "pagePath": "linux/linux.md"
-                }
-            ],
-            "pagePath": "linux/README.md",
-            "text": "简介"
-        },
         {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
-                    "link": "linux/linux.html",
-                    "pagePath": "linux/linux.md"
+                    "text": "目录",
+                    "link": "linux/index.html",
+                    "pagePath": "linux/README.md"
                 }
             ]
         },
         {
-            "text": "video",
+            "text": "视频",
             "children": [
                 {
-                    "text": "电影",
+                    "text": "视频",
                     "link": "video/video.html",
                     "pagePath": "video/video.md"
                 },
