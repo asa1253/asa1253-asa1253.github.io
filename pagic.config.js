@@ -1,7 +1,5 @@
 export default {
     srcDir: 'docs',
-    include: ['README.md', 'docs'],
-    exclude: ['examples'],
     theme: 'docs',
     plugins: ['sidebar', 'prev_next',],
     title: 'Bookmarks',

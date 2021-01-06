@@ -1,16 +1,16 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "link": "index.html"
+        "link": "video/video.html"
     },
     'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
-    'pagePath': "README.md",
+    'pagePath': "video/pt.md",
     'layoutPath': "_layout.tsx",
-    'outputPath': "index.html",
+    'outputPath': "video/pt.html",
     'title': undefined,
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: ''
+            __html: '<h3 id="pt">PT<a class="anchor" href="#pt">§</a></h3>\n<!-- ### pt\n\n\n[Rarbg.com](http://rarbg.com/)\n[Download music, movies, games, software! The Pirate Bay - The world&#39;s most resilient BitTorrent site](http://thepiratebay.ee/)\n[Pornhub](http://www.pornhub.com/)\n[Redtube](http://www.redtube.com/)\n[youporn](http://www.youporn.com/)\n[Jav asa1253  asa159786](http://www.javlibrary.com/)\n[BitTorrent](http://rutracker.org/)\n[XVIDEOS.COM](https://www.xvideos.com/)\n[ThisAV.com](http://thisav.com/)\n[BabyTorrent](https://babytorrent.vip/)\n\n -->'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
@@ -19,16 +19,18 @@ export default {
         React.createElement("script", { src: "/index.js", type: "module" })),
     'contentTitle': undefined,
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: ''
+            __html: '<h3 id="pt">PT<a class="anchor" href="#pt">§</a></h3>\n<!-- ### pt\n\n\n[Rarbg.com](http://rarbg.com/)\n[Download music, movies, games, software! The Pirate Bay - The world&#39;s most resilient BitTorrent site](http://thepiratebay.ee/)\n[Pornhub](http://www.pornhub.com/)\n[Redtube](http://www.redtube.com/)\n[youporn](http://www.youporn.com/)\n[Jav asa1253  asa159786](http://www.javlibrary.com/)\n[BitTorrent](http://rutracker.org/)\n[XVIDEOS.COM](https://www.xvideos.com/)\n[ThisAV.com](http://thisav.com/)\n[BabyTorrent](https://babytorrent.vip/)\n\n -->'
         } }),
-    'toc': null,
+    'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
+            __html: '<nav class="toc"><ol><li><a href="#pt">PT</a></li></ol></nav>'
+        } }),
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
     'date': "2021-01-06T07:29:02.000Z",
     'updated': null,
-    'excerpt': "",
+    'excerpt': "PT",
     'cover': undefined,
     'sidebar': [
         {
