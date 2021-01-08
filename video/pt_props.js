@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:15:59.000Z",
+    'date': "2021-01-08T12:18:33.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined,
@@ -39,7 +39,7 @@ export default {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
+                    "text": "linux教程",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 },
@@ -79,7 +79,7 @@ export default {
                     "pagePath": "web/web.md"
                 },
                 {
-                    "text": "blog",
+                    "text": "博客",
                     "link": "web/blog.html",
                     "pagePath": "web/blog.md"
                 },
@@ -94,7 +94,7 @@ export default {
                     "pagePath": "web/Software.md"
                 },
                 {
-                    "text": "SS",
+                    "text": "飞机",
                     "link": "web/ss.html",
                     "pagePath": "web/ss.md"
                 }

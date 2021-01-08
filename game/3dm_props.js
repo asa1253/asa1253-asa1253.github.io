@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:15:59.000Z",
+    'date': "2021-01-08T12:18:33.000Z",
     'updated': null,
     'excerpt': "上古卷轴 - 【新提醒】【授权汉化+分流】天际悬赏板（THE NOTICE BOARD）让你的天际不再乏味！！！ - 《上古卷轴5：天际》 - 3DMGAME论坛 - Powered by Discuz! - 【新提醒】【本猫的绅士技能第五弹】绅士之路永不停息，新的时...",
     'cover': undefined,
@@ -41,7 +41,7 @@ export default {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
+                    "text": "linux教程",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 },
@@ -81,7 +81,7 @@ export default {
                     "pagePath": "web/web.md"
                 },
                 {
-                    "text": "blog",
+                    "text": "博客",
                     "link": "web/blog.html",
                     "pagePath": "web/blog.md"
                 },
@@ -96,7 +96,7 @@ export default {
                     "pagePath": "web/Software.md"
                 },
                 {
-                    "text": "SS",
+                    "text": "飞机",
                     "link": "web/ss.html",
                     "pagePath": "web/ss.md"
                 }

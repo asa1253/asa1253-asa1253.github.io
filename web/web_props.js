@@ -5,7 +5,7 @@ export default {
         "link": "game/steam.html"
     },
     'next': {
-        "text": "blog",
+        "text": "博客",
         "link": "web/blog.html"
     },
     config: { "root": "/", ...projectConfig, branch: 'master' },
@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:15:59.000Z",
+    'date': "2021-01-08T12:18:33.000Z",
     'updated': null,
     'excerpt': "DNS - Client Area - Freenom - My No-IP !! - CloudFlarey - https://nic.eu.org/ - NextDNS cloud - Microsoft DreamSpark - Microsoft Azure - IBM Bluemix - yandex网盘 - BlueMix免费Kubernetes-原生Docker容器停止供应转...",
     'cover': undefined,
@@ -41,7 +41,7 @@ export default {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
+                    "text": "linux教程",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 },
@@ -81,7 +81,7 @@ export default {
                     "pagePath": "web/web.md"
                 },
                 {
-                    "text": "blog",
+                    "text": "博客",
                     "link": "web/blog.html",
                     "pagePath": "web/blog.md"
                 },
@@ -96,7 +96,7 @@ export default {
                     "pagePath": "web/Software.md"
                 },
                 {
-                    "text": "SS",
+                    "text": "飞机",
                     "link": "web/ss.html",
                     "pagePath": "web/ss.md"
                 }

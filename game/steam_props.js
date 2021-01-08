@@ -14,7 +14,7 @@ export default {
     'outputPath': "game/steam.html",
     'title': "steam",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>steam</h1>\n<ul>\n<li><a href="https://mogeko.me/2018/036/">如何使用 ASF 挂卡 | Mogeko`s Blog</a></li>\n<li><a href="https://www.linuxsecrets.com/archlinux-wiki/wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting.html#Civilization_VI">Steam/Game-specific troubleshooting - ArchWiki</a></li>\n</ul>'
+            __html: '<h1>steam</h1>\n<h2 id="steam%E6%95%99%E7%A8%8B">steam教程<a class="anchor" href="#steam%E6%95%99%E7%A8%8B">§</a></h2>\n<ul>\n<li><a href="https://mogeko.me/2018/036/">如何使用 ASF 挂卡 | Mogeko`s Blog</a></li>\n<li><a href="https://www.linuxsecrets.com/archlinux-wiki/wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting.html#Civilization_VI">Steam/Game-specific troubleshooting - ArchWiki</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
@@ -23,23 +23,25 @@ export default {
         React.createElement("script", { src: "/index.js", type: "module" })),
     'contentTitle': React.createElement("h1", { key: "0" }, "steam"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<ul>\n<li><a href="https://mogeko.me/2018/036/">如何使用 ASF 挂卡 | Mogeko`s Blog</a></li>\n<li><a href="https://www.linuxsecrets.com/archlinux-wiki/wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting.html#Civilization_VI">Steam/Game-specific troubleshooting - ArchWiki</a></li>\n</ul>'
+            __html: '<h2 id="steam%E6%95%99%E7%A8%8B">steam教程<a class="anchor" href="#steam%E6%95%99%E7%A8%8B">§</a></h2>\n<ul>\n<li><a href="https://mogeko.me/2018/036/">如何使用 ASF 挂卡 | Mogeko`s Blog</a></li>\n<li><a href="https://www.linuxsecrets.com/archlinux-wiki/wiki.archlinux.org/index.php/Steam/Game-specific_troubleshooting.html#Civilization_VI">Steam/Game-specific troubleshooting - ArchWiki</a></li>\n</ul>'
         } }),
-    'toc': null,
+    'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
+            __html: '<nav class="toc"><ol><li><a href="#steam%E6%95%99%E7%A8%8B">steam教程</a></li></ol></nav>'
+        } }),
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:15:59.000Z",
+    'date': "2021-01-08T12:18:33.000Z",
     'updated': null,
-    'excerpt': " - 如何使用 ASF 挂卡 | Mogeko`s Blog - Steam/Game-specific troubleshooting - ArchWiki",
+    'excerpt': "steam教程 - 如何使用 ASF 挂卡 | Mogeko`s Blog - Steam/Game-specific troubleshooting - ArchWiki",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
+                    "text": "linux教程",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 },
@@ -79,7 +81,7 @@ export default {
                     "pagePath": "web/web.md"
                 },
                 {
-                    "text": "blog",
+                    "text": "博客",
                     "link": "web/blog.html",
                     "pagePath": "web/blog.md"
                 },
@@ -94,7 +96,7 @@ export default {
                     "pagePath": "web/Software.md"
                 },
                 {
-                    "text": "SS",
+                    "text": "飞机",
                     "link": "web/ss.html",
                     "pagePath": "web/ss.md"
                 }

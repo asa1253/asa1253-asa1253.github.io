@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:15:59.000Z",
+    'date': "2021-01-08T12:18:33.000Z",
     'updated': null,
     'excerpt': "免费学习 - 可汗学院 - Codecademy学院 - Linux下清空用户登录记录和命令历史的方法分享_LINUX_操作系统_脚本之家 - 树莓派搭建LNMP环境 | 树莓派实验室 - LNMP一键安装包 - CentOS/RadHat/Debian/Ubuntu下自动编译安装Nginx,P...",
     'cover': undefined,
@@ -41,7 +41,7 @@ export default {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
+                    "text": "linux教程",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 },
@@ -81,7 +81,7 @@ export default {
                     "pagePath": "web/web.md"
                 },
                 {
-                    "text": "blog",
+                    "text": "博客",
                     "link": "web/blog.html",
                     "pagePath": "web/blog.md"
                 },
@@ -96,7 +96,7 @@ export default {
                     "pagePath": "web/Software.md"
                 },
                 {
-                    "text": "SS",
+                    "text": "飞机",
                     "link": "web/ss.html",
                     "pagePath": "web/ss.md"
                 }

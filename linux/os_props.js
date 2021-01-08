@@ -14,7 +14,7 @@ export default {
     'outputPath': "linux/os.html",
     'title': "系统",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>系统</h1>\n<ul>\n<li><a href="http://www.wepe.com.cn/">微PE工具箱 - 最好用的WinPE装机维护工具</a></li>\n<li><a href="https://github.com/huginn/huginn">huginn / huginn：创建代理人来监控和行事。 你的代理人站在！</a></li>\n<li><a href="https://github.com/MoeNetwork/Tieba-Cloud-Sign">GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http://zhizhe8.</a></li>\n<li><a href="http://koolshare.cn/thread-104733-1-1.html">K3 Lede</a></li>\n<li><a href="https://hikaripe-sc.hikaricalyx.com/">Edgeless 插件的兼容支持 - Hikari PE 使用手册 SC</a></li>\n</ul>\n<h1>路由器论坛</h1>\n<ul>\n<li><a href="https://koolshare.cn/portal.php">首页 - KoolShare -</a> <!--  asa1253      Asa159786* -->\n<a href="https://toutyrater.github.io/">前言 · V2Ray 配置指南|V2Ray 白话文教程</a>\n<a href="https://www.v2ray.com/awesome/tools.html">神一样的工具们 · Project V 官方网站</a>\n<a href="http://www.ngrok.cc/user.html">Sunny-Ngrok内网穿透服务</a></li>\n</ul>'
+            __html: '<h1>系统</h1>\n<h2 id="%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7">系统工具<a class="anchor" href="#%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7">§</a></h2>\n<ul>\n<li><a href="http://www.wepe.com.cn/">微PE工具箱</a></li>\n<li><a href="https://github.com/huginn/huginn">huginn</a></li>\n<li><a href="https://github.com/MoeNetwork/Tieba-Cloud-Sign">GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http://zhizhe8.</a></li>\n<li><a href="http://koolshare.cn/thread-104733-1-1.html">K3 Lede</a></li>\n<li><a href="https://hikaripe-sc.hikaricalyx.com/">Edgeless 插件的兼容支持 - Hikari PE 使用手册 SC</a></li>\n</ul>\n<h1>路由器论坛</h1>\n<ul>\n<li><a href="https://koolshare.cn/portal.php">KoolShare ！！</a> <!--  asa1253      Asa159786* -->\n<a href="https://toutyrater.github.io/">V2Ray白话文教程</a>\n<a href="https://www.v2ray.com/awesome/tools.html">Project V 官方网站</a>\n<a href="http://www.ngrok.cc/user.html">Sunny-Ngrok内网穿透服务</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
@@ -23,23 +23,25 @@ export default {
         React.createElement("script", { src: "/index.js", type: "module" })),
     'contentTitle': React.createElement("h1", { key: "0" }, "\u7CFB\u7EDF"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<ul>\n<li><a href="http://www.wepe.com.cn/">微PE工具箱 - 最好用的WinPE装机维护工具</a></li>\n<li><a href="https://github.com/huginn/huginn">huginn / huginn：创建代理人来监控和行事。 你的代理人站在！</a></li>\n<li><a href="https://github.com/MoeNetwork/Tieba-Cloud-Sign">GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http://zhizhe8.</a></li>\n<li><a href="http://koolshare.cn/thread-104733-1-1.html">K3 Lede</a></li>\n<li><a href="https://hikaripe-sc.hikaricalyx.com/">Edgeless 插件的兼容支持 - Hikari PE 使用手册 SC</a></li>\n</ul>\n<h1>路由器论坛</h1>\n<ul>\n<li><a href="https://koolshare.cn/portal.php">首页 - KoolShare -</a> <!--  asa1253      Asa159786* -->\n<a href="https://toutyrater.github.io/">前言 · V2Ray 配置指南|V2Ray 白话文教程</a>\n<a href="https://www.v2ray.com/awesome/tools.html">神一样的工具们 · Project V 官方网站</a>\n<a href="http://www.ngrok.cc/user.html">Sunny-Ngrok内网穿透服务</a></li>\n</ul>'
+            __html: '<h2 id="%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7">系统工具<a class="anchor" href="#%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7">§</a></h2>\n<ul>\n<li><a href="http://www.wepe.com.cn/">微PE工具箱</a></li>\n<li><a href="https://github.com/huginn/huginn">huginn</a></li>\n<li><a href="https://github.com/MoeNetwork/Tieba-Cloud-Sign">GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http://zhizhe8.</a></li>\n<li><a href="http://koolshare.cn/thread-104733-1-1.html">K3 Lede</a></li>\n<li><a href="https://hikaripe-sc.hikaricalyx.com/">Edgeless 插件的兼容支持 - Hikari PE 使用手册 SC</a></li>\n</ul>\n<h1>路由器论坛</h1>\n<ul>\n<li><a href="https://koolshare.cn/portal.php">KoolShare ！！</a> <!--  asa1253      Asa159786* -->\n<a href="https://toutyrater.github.io/">V2Ray白话文教程</a>\n<a href="https://www.v2ray.com/awesome/tools.html">Project V 官方网站</a>\n<a href="http://www.ngrok.cc/user.html">Sunny-Ngrok内网穿透服务</a></li>\n</ul>'
         } }),
-    'toc': null,
+    'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
+            __html: '<nav class="toc"><ol><li><a href="#%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7">系统工具</a></li></ol></nav>'
+        } }),
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:15:59.000Z",
+    'date': "2021-01-08T12:18:33.000Z",
     'updated': null,
-    'excerpt': " - 微PE工具箱 - 最好用的WinPE装机维护工具 - huginn / huginn：创建代理人来监控和行事。 你的代理人站在！ - GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全...",
+    'excerpt': "系统工具 - 微PE工具箱 - huginn - GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http...",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
             "children": [
                 {
-                    "text": "linux",
+                    "text": "linux教程",
                     "link": "linux/linux.html",
                     "pagePath": "linux/linux.md"
                 },
@@ -79,7 +81,7 @@ export default {
                     "pagePath": "web/web.md"
                 },
                 {
-                    "text": "blog",
+                    "text": "博客",
                     "link": "web/blog.html",
                     "pagePath": "web/blog.md"
                 },
@@ -94,7 +96,7 @@ export default {
                     "pagePath": "web/Software.md"
                 },
                 {
-                    "text": "SS",
+                    "text": "飞机",
                     "link": "web/ss.html",
                     "pagePath": "web/ss.md"
                 }
