@@ -1,14 +1,17 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "目录",
-        "link": "index.html"
+        "text": "steam",
+        "link": "game/steam.html"
     },
-    'next': undefined,
+    'next': {
+        "text": "blog",
+        "link": "web/blog.html"
+    },
     config: { "root": "/", ...projectConfig, branch: 'master' },
-    'pagePath': "web/README.md",
+    'pagePath': "web/web.md",
     'layoutPath': "_layout.tsx",
-    'outputPath': "web/index.html",
+    'outputPath': "web/web.html",
     'title': "web",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
             __html: '<h1>web</h1>\n<h3 id="dns">DNS<a class="anchor" href="#dns">§</a></h3>\n<ul>\n<li><a href="https://my.freenom.com/">Client Area - Freenom</a></li>\n<li><a href="https://my.noip.com/">My No-IP</a><!-- 1005029697@qq.com asa159786 --></li>\n<li><a href="https://www.cloudflare.com/my-websites">CloudFlarey</a></li>\n<li><a href="https://nic.eu.org/">https://nic.eu.org/</a></li>\n<li><a href="https://nextdns.io/">NextDNS</a></li>\n</ul>\n<h3 id="cloud">cloud<a class="anchor" href="#cloud">§</a></h3>\n<ul>\n<li><a href="https://www.dreamspark.com/">Microsoft DreamSpark</a></li>\n<li><a href="https://login.live.com/login.srf?wa=wsignin1.0&amp;wtrealm=https%3a%2f%2faccesscontrol.windows.net%2f&amp;wreply=https%3a%2f%2ftfsprodch1acs01.accesscontrol.windows.net%2fv2%2fwsfederation&amp;wp=MBI_FED_SSL&amp;wctx=cHI9d3NmZWRlcmF0aW9uJnJtPWh0dHBzJTNhJTJmJTJmYXBwLnZzc3BzLnZpc3VhbHN0dWRpby5jb20lMmYmcnk9aHR0cHMlM2ElMmYlMmZhcHAudnNzcHMudmlzdWFsc3R1ZGlvLmNvbSUyZl9zaWduZWRpbiUzZnJlYWxtJTNkb3BlbnNzaC52aXN1YWxzdHVkaW8uY29tJTI2cHJvdG9jb2wlM2R3c2ZlZGVyYXRpb24lMjZjYWNoZV9rZXklM2RLRTIyWVgyV0UyNzdURjRLRkZZVjRZTllOWDNVUEtMSzNTUjY1UEVNTTNHUlBHTkxOVU1RJTI1M0QlMjUzRCUyNTNEJTI1M0QlMjZta3QlM2R6aC1DTg2&amp;cbcxt=eyJodCI6MiwiaGlkIjoiZWYwYmUxMDMtZjA1Mi00YTE3LWJiMjUtYTE0YTcxNGI4YjAxIiwicXMiOnsicmVhbG0iOiJvcGVuc3NoLnZpc3VhbHN0dWRpby5jb20iLCJyZXBseV90byI6Imh0dHBzOi8vb3BlbnNzaC52aXN1YWxzdHVkaW8uY29tLyIsIm1rdCI6InpoLUNOIn0sInJyIjoiIiwidmgiOiIifQ2&amp;mkt=zh-CN">Visual Studio</a></li>\n<li><a href="https://portal.azure.com/">Microsoft Azure</a></li>\n<li><a href="https://console.bluemix.net/catalog/?taxonomyNavigation=containers&amp;env_id=ibm%3Ayp%3Aus-south">IBM Bluemix</a></li>\n<li><a href="https://passport.yandex.com/">yandex网盘</a></li>\n<li><a href="https://www.freehao123.com/bluemix-kubernetes/">BlueMix免费Kubernetes-原生Docker容器停止供应转而提供Kubernetes服务 | 免费资源部落</a></li>\n<li><a href="https://www.udemy.com/learn-java-ee/?couponCode=FREE3DAYS">Java EE Made Simple: Create An App In 7 Days | Udemy</a></li>\n</ul>'

@@ -4,45 +4,37 @@ export default {
         "text": "目录",
         "link": "index.html"
     },
-    'next': {
-        "text": "linux",
-        "link": "linux/linux.html"
-    },
+    'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
     'pagePath': "linux/README.md",
     'layoutPath': "_layout.tsx",
     'outputPath': "linux/index.html",
-    'title': "linux",
+    'title': undefined,
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>linux</h1>\n<p><a href="linux/linux.html">Linux</a></p>'
+            __html: ''
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "linux"),
+    'contentTitle': undefined,
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<p><a href="linux/linux.html">Linux</a></p>'
+            __html: ''
         } }),
     'toc': null,
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:30:26.000Z",
+    'date': "2021-01-08T11:53:41.000Z",
     'updated': null,
-    'excerpt': "Linux",
+    'excerpt': "",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
             "children": [
-                {
-                    "text": "linux",
-                    "link": "linux/index.html",
-                    "pagePath": "linux/README.md"
-                },
                 {
                     "text": "linux",
                     "link": "linux/linux.html",
@@ -58,11 +50,6 @@ export default {
         {
             "text": "游戏",
             "children": [
-                {
-                    "text": "游戏",
-                    "link": "game/index.html",
-                    "pagePath": "game/README.md"
-                },
                 {
                     "text": "缺氧",
                     "link": "game/game.html",
@@ -85,8 +72,8 @@ export default {
             "children": [
                 {
                     "text": "web",
-                    "link": "web/index.html",
-                    "pagePath": "web/README.md"
+                    "link": "web/web.html",
+                    "pagePath": "web/web.md"
                 },
                 {
                     "text": "blog",
@@ -115,11 +102,6 @@ export default {
             "children": [
                 {
                     "text": "学习",
-                    "link": "xue/index.html",
-                    "pagePath": "xue/README.md"
-                },
-                {
-                    "text": "学习",
                     "link": "xue/xue.html",
                     "pagePath": "xue/xue.md"
                 }
@@ -143,11 +125,6 @@ export default {
         {
             "text": "临时",
             "children": [
-                {
-                    "text": "杂项",
-                    "link": "temp/index.html",
-                    "pagePath": "temp/README.md"
-                },
                 {
                     "text": "临时",
                     "link": "temp/temp.html",

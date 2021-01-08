@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:30:26.000Z",
+    'date': "2021-01-08T11:53:41.000Z",
     'updated': null,
     'excerpt': " - 【新提醒】【授权汉化+分流】天际悬赏板（THE NOTICE BOARD）让你的天际不再乏味！！！ - 《上古卷轴5：天际》 - 3DMGAME论坛 - Powered by Discuz! - 【新提醒】【本猫的绅士技能第五弹】绅士之路永不停息，新的时代即将来...",
     'cover': undefined,
@@ -38,11 +38,6 @@ export default {
         {
             "text": "linux",
             "children": [
-                {
-                    "text": "linux",
-                    "link": "linux/index.html",
-                    "pagePath": "linux/README.md"
-                },
                 {
                     "text": "linux",
                     "link": "linux/linux.html",
@@ -58,11 +53,6 @@ export default {
         {
             "text": "游戏",
             "children": [
-                {
-                    "text": "游戏",
-                    "link": "game/index.html",
-                    "pagePath": "game/README.md"
-                },
                 {
                     "text": "缺氧",
                     "link": "game/game.html",
@@ -85,8 +75,8 @@ export default {
             "children": [
                 {
                     "text": "web",
-                    "link": "web/index.html",
-                    "pagePath": "web/README.md"
+                    "link": "web/web.html",
+                    "pagePath": "web/web.md"
                 },
                 {
                     "text": "blog",
@@ -115,11 +105,6 @@ export default {
             "children": [
                 {
                     "text": "学习",
-                    "link": "xue/index.html",
-                    "pagePath": "xue/README.md"
-                },
-                {
-                    "text": "学习",
                     "link": "xue/xue.html",
                     "pagePath": "xue/xue.md"
                 }
@@ -143,11 +128,6 @@ export default {
         {
             "text": "临时",
             "children": [
-                {
-                    "text": "杂项",
-                    "link": "temp/index.html",
-                    "pagePath": "temp/README.md"
-                },
                 {
                     "text": "临时",
                     "link": "temp/temp.html",

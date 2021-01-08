@@ -29,7 +29,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:30:26.000Z",
+    'date': "2021-01-08T11:53:41.000Z",
     'updated': null,
     'excerpt': " - Offcloud.com - Web Application - Steam 雲激活 - Steam雲激活 - 利用Huginn抓取任意网站RSS和微信公众号更新-打造一站式信息阅读平台 - 挖站否-挖掘建站的乐趣 - 收集控: 直播源收集 - Leonn 的博客 - lede ipk - 2018路由...",
     'cover': undefined,
@@ -37,11 +37,6 @@ export default {
         {
             "text": "linux",
             "children": [
-                {
-                    "text": "linux",
-                    "link": "linux/index.html",
-                    "pagePath": "linux/README.md"
-                },
                 {
                     "text": "linux",
                     "link": "linux/linux.html",
@@ -57,11 +52,6 @@ export default {
         {
             "text": "游戏",
             "children": [
-                {
-                    "text": "游戏",
-                    "link": "game/index.html",
-                    "pagePath": "game/README.md"
-                },
                 {
                     "text": "缺氧",
                     "link": "game/game.html",
@@ -84,8 +74,8 @@ export default {
             "children": [
                 {
                     "text": "web",
-                    "link": "web/index.html",
-                    "pagePath": "web/README.md"
+                    "link": "web/web.html",
+                    "pagePath": "web/web.md"
                 },
                 {
                     "text": "blog",
@@ -114,11 +104,6 @@ export default {
             "children": [
                 {
                     "text": "学习",
-                    "link": "xue/index.html",
-                    "pagePath": "xue/README.md"
-                },
-                {
-                    "text": "学习",
                     "link": "xue/xue.html",
                     "pagePath": "xue/xue.md"
                 }
@@ -142,11 +127,6 @@ export default {
         {
             "text": "临时",
             "children": [
-                {
-                    "text": "杂项",
-                    "link": "temp/index.html",
-                    "pagePath": "temp/README.md"
-                },
                 {
                     "text": "临时",
                     "link": "temp/temp.html",

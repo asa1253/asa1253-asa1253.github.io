@@ -19,7 +19,6 @@ export default {
             {
                 text: 'linux',
                 children: [
-                    'linux/README.md',
                     'linux/linux.md',
                     'linux/os.md',
                 ],
@@ -27,7 +26,6 @@ export default {
             {
                 text: '游戏',
                 children: [
-                    'game/README.md',
                     'game/game.md',
                     'game/3dm.md',
                     'game/steam.md',
@@ -36,7 +34,7 @@ export default {
             {
                 text: '网站',
                 children: [
-                    'web/README.md',
+                    'web/web.md',
                     'web/blog.md',
                     'web/python.md',
                     'web/Software.md',
@@ -46,7 +44,6 @@ export default {
             {
                 text: '学习',
                 children: [
-                    'xue/README.md',
                     'xue/xue.md',
                 ],
             },
@@ -60,7 +57,6 @@ export default {
             {
                 text: '临时',
                 children: [
-                    'temp/README.md',
                     'temp/temp.md',
                 ],
             },
