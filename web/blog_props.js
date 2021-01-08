@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:53:41.000Z",
+    'date': "2021-01-08T12:15:59.000Z",
     'updated': null,
     'excerpt': " - 纸小墨 | 构建只为纯粹书写的博客 - 长腿蜘蛛-CTspider|WordPress自动采集发布插件 - LIOLOG - 尝试使用Arch Linux | 灰灰 の blog Maverick/blog - 使用GitHub Action自动部署WIKI站点（Maverick）至腾讯云开发 - 风也雨忆...",
     'cover': undefined,
@@ -54,7 +54,7 @@ export default {
             "text": "游戏",
             "children": [
                 {
-                    "text": "缺氧",
+                    "text": "游戏",
                     "link": "game/game.html",
                     "pagePath": "game/game.md"
                 },
@@ -74,7 +74,7 @@ export default {
             "text": "网站",
             "children": [
                 {
-                    "text": "web",
+                    "text": "网络",
                     "link": "web/web.html",
                     "pagePath": "web/web.md"
                 },

@@ -12,27 +12,29 @@ export default {
     'pagePath': "game/game.md",
     'layoutPath': "_layout.tsx",
     'outputPath': "game/game.html",
-    'title': "缺氧",
+    'title': "游戏",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>缺氧</h1>\n<ul>\n<li><a href="http://www.ahgame.com/qy/89282/">缺氧高压制氧方法</a></li>\n<li><a href="http://www.ahgame.com/qy/89365_2/">缺氧攻略</a></li>\n<li><a href="http://igg-games.com/">免费下载</a></li>\n</ul>'
+            __html: '<h1>游戏</h1>\n<h2 id="%E7%BC%BA%E6%B0%A7">缺氧<a class="anchor" href="#%E7%BC%BA%E6%B0%A7">§</a></h2>\n<ul>\n<li><a href="http://www.ahgame.com/qy/89282/">缺氧高压制氧方法</a></li>\n<li><a href="http://www.ahgame.com/qy/89365_2/">缺氧攻略</a></li>\n<li><a href="http://igg-games.com/">免费下载</a></li>\n</ul>\n<h2 id="factorio">Factorio<a class="anchor" href="#factorio">§</a></h2>\n<ul>\n<li><a href="https://tieba.baidu.com/p/6393048244">【模块千瓶】全套蓝图分享异星工厂吧</a></li>\n<li><a href="https://mods.factorio.com/mod/IndustrialRevolution">Industrial Revolution - Factorio Mods</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "\u7F3A\u6C27"),
+    'contentTitle': React.createElement("h1", { key: "0" }, "\u6E38\u620F"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<ul>\n<li><a href="http://www.ahgame.com/qy/89282/">缺氧高压制氧方法</a></li>\n<li><a href="http://www.ahgame.com/qy/89365_2/">缺氧攻略</a></li>\n<li><a href="http://igg-games.com/">免费下载</a></li>\n</ul>'
+            __html: '<h2 id="%E7%BC%BA%E6%B0%A7">缺氧<a class="anchor" href="#%E7%BC%BA%E6%B0%A7">§</a></h2>\n<ul>\n<li><a href="http://www.ahgame.com/qy/89282/">缺氧高压制氧方法</a></li>\n<li><a href="http://www.ahgame.com/qy/89365_2/">缺氧攻略</a></li>\n<li><a href="http://igg-games.com/">免费下载</a></li>\n</ul>\n<h2 id="factorio">Factorio<a class="anchor" href="#factorio">§</a></h2>\n<ul>\n<li><a href="https://tieba.baidu.com/p/6393048244">【模块千瓶】全套蓝图分享异星工厂吧</a></li>\n<li><a href="https://mods.factorio.com/mod/IndustrialRevolution">Industrial Revolution - Factorio Mods</a></li>\n</ul>'
         } }),
-    'toc': null,
+    'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
+            __html: '<nav class="toc"><ol><li><a href="#%E7%BC%BA%E6%B0%A7">缺氧</a></li><li><a href="#factorio">Factorio</a></li></ol></nav>'
+        } }),
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:53:41.000Z",
+    'date': "2021-01-08T12:15:59.000Z",
     'updated': null,
-    'excerpt': " - 缺氧高压制氧方法 - 缺氧攻略 - 免费下载",
+    'excerpt': "缺氧 - 缺氧高压制氧方法 - 缺氧攻略 - 免费下载 Factorio - 【模块千瓶】全套蓝图分享异星工厂吧 - Industrial Revolution - Factorio Mods",
     'cover': undefined,
     'sidebar': [
         {
@@ -54,7 +56,7 @@ export default {
             "text": "游戏",
             "children": [
                 {
-                    "text": "缺氧",
+                    "text": "游戏",
                     "link": "game/game.html",
                     "pagePath": "game/game.md"
                 },
@@ -74,7 +76,7 @@ export default {
             "text": "网站",
             "children": [
                 {
-                    "text": "web",
+                    "text": "网络",
                     "link": "web/web.html",
                     "pagePath": "web/web.md"
                 },

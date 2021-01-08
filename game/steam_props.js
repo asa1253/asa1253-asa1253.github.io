@@ -5,7 +5,7 @@ export default {
         "link": "index.html"
     },
     'next': {
-        "text": "web",
+        "text": "网络",
         "link": "web/web.html"
     },
     config: { "root": "/", ...projectConfig, branch: 'master' },
@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:53:41.000Z",
+    'date': "2021-01-08T12:15:59.000Z",
     'updated': null,
     'excerpt': " - 如何使用 ASF 挂卡 | Mogeko`s Blog - Steam/Game-specific troubleshooting - ArchWiki",
     'cover': undefined,
@@ -54,7 +54,7 @@ export default {
             "text": "游戏",
             "children": [
                 {
-                    "text": "缺氧",
+                    "text": "游戏",
                     "link": "game/game.html",
                     "pagePath": "game/game.md"
                 },
@@ -74,7 +74,7 @@ export default {
             "text": "网站",
             "children": [
                 {
-                    "text": "web",
+                    "text": "网络",
                     "link": "web/web.html",
                     "pagePath": "web/web.md"
                 },

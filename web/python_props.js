@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T11:53:41.000Z",
+    'date': "2021-01-08T12:15:59.000Z",
     'updated': null,
     'excerpt': " - 写个图片爬虫，scrapy，python第一次接触（停止更新） - - 博客频道 - CSDN.NET - Python高级教程- Python进阶|Scrapy教程|Python高级|Python深入 - 使用Scrapy抓取数据 - JavaChen Blog - Scrapy | A Fast and Powerful Sc...",
     'cover': undefined,
@@ -54,7 +54,7 @@ export default {
             "text": "游戏",
             "children": [
                 {
-                    "text": "缺氧",
+                    "text": "游戏",
                     "link": "game/game.html",
                     "pagePath": "game/game.md"
                 },
@@ -74,7 +74,7 @@ export default {
             "text": "网站",
             "children": [
                 {
-                    "text": "web",
+                    "text": "网络",
                     "link": "web/web.html",
                     "pagePath": "web/web.md"
                 },
