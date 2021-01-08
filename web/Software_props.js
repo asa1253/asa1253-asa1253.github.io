@@ -27,7 +27,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:36:24.000Z",
+    'date': "2021-01-08T11:15:10.000Z",
     'updated': null,
     'excerpt': " - 正版中国 - 厘米天空 | 绿色软件与IT资源分享 - 异次元软件世界 - 软件改变生活！ - 如有乐享 - 蓝点网 - Leonn 的博客 - 【图片】【设计规划】发几种不同的火车站系统。【异星工厂吧】_百度贴吧 - Jialezi `s blog - 【模块...",
     'cover': undefined,
@@ -43,6 +43,35 @@ export default {
             ]
         },
         {
+            "text": "游戏",
+            "children": [
+                {
+                    "text": "游戏",
+                    "link": "game/index.html",
+                    "pagePath": "game/README.md"
+                }
+            ]
+        },
+        {
+            "text": "网站",
+            "children": [
+                {
+                    "text": "web",
+                    "link": "web/index.html",
+                    "pagePath": "web/README.md"
+                }
+            ]
+        },
+        {
+            "text": "学习",
+            "children": [
+                {
+                    "link": "xue/index.html",
+                    "pagePath": "xue/README.md"
+                }
+            ]
+        },
+        {
             "text": "视频",
             "children": [
                 {
@@ -54,6 +83,15 @@ export default {
                     "text": "PT",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
+                }
+            ]
+        },
+        {
+            "text": "临时",
+            "children": [
+                {
+                    "link": "temp/index.html",
+                    "pagePath": "temp/README.md"
                 }
             ]
         }

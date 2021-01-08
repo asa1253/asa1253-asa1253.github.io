@@ -29,7 +29,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:36:24.000Z",
+    'date': "2021-01-08T11:15:10.000Z",
     'updated': null,
     'excerpt': " - 小飞机地址发布 - 游讯游戏加速器 ngrok - Sunny-Ngrok",
     'cover': undefined,
@@ -45,6 +45,35 @@ export default {
             ]
         },
         {
+            "text": "游戏",
+            "children": [
+                {
+                    "text": "游戏",
+                    "link": "game/index.html",
+                    "pagePath": "game/README.md"
+                }
+            ]
+        },
+        {
+            "text": "网站",
+            "children": [
+                {
+                    "text": "web",
+                    "link": "web/index.html",
+                    "pagePath": "web/README.md"
+                }
+            ]
+        },
+        {
+            "text": "学习",
+            "children": [
+                {
+                    "link": "xue/index.html",
+                    "pagePath": "xue/README.md"
+                }
+            ]
+        },
+        {
             "text": "视频",
             "children": [
                 {
@@ -56,6 +85,15 @@ export default {
                     "text": "PT",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
+                }
+            ]
+        },
+        {
+            "text": "临时",
+            "children": [
+                {
+                    "link": "temp/index.html",
+                    "pagePath": "temp/README.md"
                 }
             ]
         }

@@ -27,7 +27,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:36:24.000Z",
+    'date': "2021-01-08T11:15:10.000Z",
     'updated': null,
     'excerpt': " - Shell脚本编程详解-吐血共享_百度文库 - Arch Linux办公环境安装配置纯小白包通过教程 - 简书 - Page 6 of 9 for Average Linux User | How to install, configure and use Linux. - 尝试使用Arch Linux | 灰灰 の blog - 约...",
     'cover': undefined,
@@ -43,6 +43,35 @@ export default {
             ]
         },
         {
+            "text": "游戏",
+            "children": [
+                {
+                    "text": "游戏",
+                    "link": "game/index.html",
+                    "pagePath": "game/README.md"
+                }
+            ]
+        },
+        {
+            "text": "网站",
+            "children": [
+                {
+                    "text": "web",
+                    "link": "web/index.html",
+                    "pagePath": "web/README.md"
+                }
+            ]
+        },
+        {
+            "text": "学习",
+            "children": [
+                {
+                    "link": "xue/index.html",
+                    "pagePath": "xue/README.md"
+                }
+            ]
+        },
+        {
             "text": "视频",
             "children": [
                 {
@@ -54,6 +83,15 @@ export default {
                     "text": "PT",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
+                }
+            ]
+        },
+        {
+            "text": "临时",
+            "children": [
+                {
+                    "link": "temp/index.html",
+                    "pagePath": "temp/README.md"
                 }
             ]
         }

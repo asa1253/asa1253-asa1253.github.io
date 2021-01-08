@@ -15,15 +15,33 @@ export default {
     ],
     sidebar: {
         '/': [
+            '/README.md',
             {
                 text: 'linux',
                 children: ['linux/README.md'],
+            },
+            {
+                text: '游戏',
+                children: ['game/README.md'],
+            },
+            {
+                text: '网站',
+                children: ['web/README.md'],
+            },
+            {
+                text: '学习',
+                children: ['xue/README.md'],
             },
             {
                 text: '视频',
                 children: [
                     'video/video.md',
                     'video/pt.md',
+                ],
+            },
+            {
+                text: '临时',
+                children: ['temp/README.md'
                 ],
             },
         ],

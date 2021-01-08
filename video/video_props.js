@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:36:24.000Z",
+    'date': "2021-01-08T11:15:10.000Z",
     'updated': null,
     'excerpt': " - 片源网 - 字幕库 - 条子骇客 - 终结者外传 - 四十七浪人 - 有希望的男人完整版 - 波西杰克逊与神火之盗 - 布鲁诺 - 开错鬼门关 - 浪漫刺客完整版 - 我们是夜晚 - 新猛鬼街 - 在路上 - 色即是空 - 长大成人2 - 降世神通最后的...",
     'cover': undefined,
@@ -46,6 +46,35 @@ export default {
             ]
         },
         {
+            "text": "游戏",
+            "children": [
+                {
+                    "text": "游戏",
+                    "link": "game/index.html",
+                    "pagePath": "game/README.md"
+                }
+            ]
+        },
+        {
+            "text": "网站",
+            "children": [
+                {
+                    "text": "web",
+                    "link": "web/index.html",
+                    "pagePath": "web/README.md"
+                }
+            ]
+        },
+        {
+            "text": "学习",
+            "children": [
+                {
+                    "link": "xue/index.html",
+                    "pagePath": "xue/README.md"
+                }
+            ]
+        },
+        {
             "text": "视频",
             "children": [
                 {
@@ -57,6 +86,15 @@ export default {
                     "text": "PT",
                     "link": "video/pt.html",
                     "pagePath": "video/pt.md"
+                }
+            ]
+        },
+        {
+            "text": "临时",
+            "children": [
+                {
+                    "link": "temp/index.html",
+                    "pagePath": "temp/README.md"
                 }
             ]
         }
