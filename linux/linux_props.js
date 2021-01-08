@@ -27,7 +27,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:33:03.000Z",
+    'date': "2021-01-08T10:36:24.000Z",
     'updated': null,
     'excerpt': " - Shell脚本编程详解-吐血共享_百度文库 - Arch Linux办公环境安装配置纯小白包通过教程 - 简书 - Page 6 of 9 for Average Linux User | How to install, configure and use Linux. - 尝试使用Arch Linux | 灰灰 の blog - 约...",
     'cover': undefined,

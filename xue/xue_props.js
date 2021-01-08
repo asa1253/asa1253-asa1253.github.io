@@ -29,7 +29,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:33:03.000Z",
+    'date': "2021-01-08T10:36:24.000Z",
     'updated': null,
     'excerpt': " - 可汗学院 - Codecademy学院 - Linux下清空用户登录记录和命令历史的方法分享_LINUX_操作系统_脚本之家 - 树莓派搭建LNMP环境 | 树莓派实验室 - LNMP一键安装包 - CentOS/RadHat/Debian/Ubuntu下自动编译安装Nginx,PHP,MySQL...",
     'cover': undefined,

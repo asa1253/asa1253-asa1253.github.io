@@ -29,7 +29,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:33:03.000Z",
+    'date': "2021-01-08T10:36:24.000Z",
     'updated': null,
     'excerpt': "DNS - Client Area - Freenom - My No-IP - CloudFlarey - https://nic.eu.org/ - NextDNS cloud - Microsoft DreamSpark - Visual Studio - Microsoft Azure - IBM Bluemix - yandex网盘 - BlueMix免费Kubernetes-原生Docker容...",
     'cover': undefined,

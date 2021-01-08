@@ -27,7 +27,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T10:33:03.000Z",
+    'date': "2021-01-08T10:36:24.000Z",
     'updated': null,
     'excerpt': " - 缺氧高压制氧方法 - 缺氧攻略 - 免费下载",
     'cover': undefined,
