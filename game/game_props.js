@@ -4,26 +4,23 @@ export default {
         "text": "目录",
         "link": "index.html"
     },
-    'next': {
-        "text": "视频",
-        "link": "video/video.html"
-    },
+    'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
-    'pagePath': "linux/README.md",
+    'pagePath': "game/game.md",
     'layoutPath': "_layout.tsx",
-    'outputPath': "linux/index.html",
-    'title': "linux",
+    'outputPath': "game/game.html",
+    'title': "缺氧",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>linux</h1>\n<p><a href="linux/linux.html">Linux</a></p>'
+            __html: '<h1>缺氧</h1>\n<ul>\n<li><a href="http://www.ahgame.com/qy/89282/">缺氧高压制氧方法</a></li>\n<li><a href="http://www.ahgame.com/qy/89365_2/">缺氧攻略</a></li>\n<li><a href="http://igg-games.com/">免费下载</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "linux"),
+    'contentTitle': React.createElement("h1", { key: "0" }, "\u7F3A\u6C27"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<p><a href="linux/linux.html">Linux</a></p>'
+            __html: '<ul>\n<li><a href="http://www.ahgame.com/qy/89282/">缺氧高压制氧方法</a></li>\n<li><a href="http://www.ahgame.com/qy/89365_2/">缺氧攻略</a></li>\n<li><a href="http://igg-games.com/">免费下载</a></li>\n</ul>'
         } }),
     'toc': null,
     'author': "asa1253",
@@ -32,7 +29,7 @@ export default {
     ],
     'date': "2021-01-08T10:33:03.000Z",
     'updated': null,
-    'excerpt': "Linux",
+    'excerpt': " - 缺氧高压制氧方法 - 缺氧攻略 - 免费下载",
     'cover': undefined,
     'sidebar': [
         {

@@ -1,8 +1,8 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "视频",
-        "link": "video/video.html"
+        "text": "目录",
+        "link": "index.html"
     },
     'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
@@ -27,7 +27,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-06T08:12:16.000Z",
+    'date': "2021-01-08T10:33:03.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined,

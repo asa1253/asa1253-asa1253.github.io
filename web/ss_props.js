@@ -4,35 +4,34 @@ export default {
         "text": "目录",
         "link": "index.html"
     },
-    'next': {
-        "text": "视频",
-        "link": "video/video.html"
-    },
+    'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
-    'pagePath': "linux/README.md",
+    'pagePath': "web/ss.md",
     'layoutPath': "_layout.tsx",
-    'outputPath': "linux/index.html",
-    'title': "linux",
+    'outputPath': "web/ss.html",
+    'title': "SS",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>linux</h1>\n<p><a href="linux/linux.html">Linux</a></p>'
+            __html: '<h1>SS</h1>\n<ul>\n<li><a href="https://github.com/zhanzhangdaren/new-project">小飞机地址发布</a></li>\n<li><a href="https://waimaojiayou.com/">游讯游戏加速器</a></li>\n</ul>\n<h2 id="ngrok">ngrok<a class="anchor" href="#ngrok">§</a></h2>\n<ul>\n<li><a href="https://www.ngrok.cc/">Sunny-Ngrok</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "linux"),
+    'contentTitle': React.createElement("h1", { key: "0" }, "SS"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<p><a href="linux/linux.html">Linux</a></p>'
+            __html: '<ul>\n<li><a href="https://github.com/zhanzhangdaren/new-project">小飞机地址发布</a></li>\n<li><a href="https://waimaojiayou.com/">游讯游戏加速器</a></li>\n</ul>\n<h2 id="ngrok">ngrok<a class="anchor" href="#ngrok">§</a></h2>\n<ul>\n<li><a href="https://www.ngrok.cc/">Sunny-Ngrok</a></li>\n</ul>'
         } }),
-    'toc': null,
+    'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
+            __html: '<nav class="toc"><ol><li><a href="#ngrok">ngrok</a></li></ol></nav>'
+        } }),
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
     'date': "2021-01-08T10:33:03.000Z",
     'updated': null,
-    'excerpt': "Linux",
+    'excerpt': " - 小飞机地址发布 - 游讯游戏加速器 ngrok - Sunny-Ngrok",
     'cover': undefined,
     'sidebar': [
         {

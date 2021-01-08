@@ -4,26 +4,23 @@ export default {
         "text": "目录",
         "link": "index.html"
     },
-    'next': {
-        "text": "视频",
-        "link": "video/video.html"
-    },
+    'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
-    'pagePath': "linux/README.md",
+    'pagePath': "game/README.md",
     'layoutPath': "_layout.tsx",
-    'outputPath': "linux/index.html",
-    'title': "linux",
+    'outputPath': "game/index.html",
+    'title': "游戏",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>linux</h1>\n<p><a href="linux/linux.html">Linux</a></p>'
+            __html: '<h1>游戏</h1>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "linux"),
+    'contentTitle': React.createElement("h1", { key: "0" }, "\u6E38\u620F"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<p><a href="linux/linux.html">Linux</a></p>'
+            __html: ''
         } }),
     'toc': null,
     'author': "asa1253",
@@ -32,7 +29,7 @@ export default {
     ],
     'date': "2021-01-08T10:33:03.000Z",
     'updated': null,
-    'excerpt': "Linux",
+    'excerpt': "",
     'cover': undefined,
     'sidebar': [
         {
