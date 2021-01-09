@@ -1,9 +1,6 @@
 import projectConfig from '/pagic.config.js';
 export default {
-    'prev': {
-        "text": "目录",
-        "link": "index.html"
-    },
+    'prev': undefined,
     'next': undefined,
     config: { "root": "/", ...projectConfig, branch: 'master' },
     'pagePath': "README.md",
@@ -27,7 +24,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:18:33.000Z",
+    'date': "2021-01-09T01:05:54.000Z",
     'updated': null,
     'excerpt': " - linux - 游戏 - 学习 - 网站 - 视频 - 临时",
     'cover': undefined,

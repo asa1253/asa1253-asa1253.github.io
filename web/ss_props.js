@@ -14,7 +14,7 @@ export default {
     'outputPath': "web/ss.html",
     'title': "飞机",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>飞机</h1>\n<h1>SS</h1>\n<ul>\n<li><a href="https://github.com/zhanzhangdaren/new-project">小飞机地址发布</a></li>\n<li><a href="https://waimaojiayou.com/">游讯游戏加速器</a></li>\n</ul>\n<h2 id="ngrok">ngrok<a class="anchor" href="#ngrok">§</a></h2>\n<ul>\n<li><a href="https://www.ngrok.cc/">Sunny-Ngrok</a></li>\n</ul>'
+            __html: '<h1>飞机</h1>\n<h2 id="ss">SS<a class="anchor" href="#ss">§</a></h2>\n<ul>\n<li><a href="https://github.com/zhanzhangdaren/new-project">小飞机地址发布</a></li>\n<li><a href="https://waimaojiayou.com/">游讯游戏加速器</a></li>\n</ul>\n<h2 id="ngrok">ngrok<a class="anchor" href="#ngrok">§</a></h2>\n<ul>\n<li><a href="https://www.ngrok.cc/">Sunny-Ngrok</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
@@ -23,16 +23,16 @@ export default {
         React.createElement("script", { src: "/index.js", type: "module" })),
     'contentTitle': React.createElement("h1", { key: "0" }, "\u98DE\u673A"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>SS</h1>\n<ul>\n<li><a href="https://github.com/zhanzhangdaren/new-project">小飞机地址发布</a></li>\n<li><a href="https://waimaojiayou.com/">游讯游戏加速器</a></li>\n</ul>\n<h2 id="ngrok">ngrok<a class="anchor" href="#ngrok">§</a></h2>\n<ul>\n<li><a href="https://www.ngrok.cc/">Sunny-Ngrok</a></li>\n</ul>'
+            __html: '<h2 id="ss">SS<a class="anchor" href="#ss">§</a></h2>\n<ul>\n<li><a href="https://github.com/zhanzhangdaren/new-project">小飞机地址发布</a></li>\n<li><a href="https://waimaojiayou.com/">游讯游戏加速器</a></li>\n</ul>\n<h2 id="ngrok">ngrok<a class="anchor" href="#ngrok">§</a></h2>\n<ul>\n<li><a href="https://www.ngrok.cc/">Sunny-Ngrok</a></li>\n</ul>'
         } }),
     'toc': React.createElement("aside", { dangerouslySetInnerHTML: {
-            __html: '<nav class="toc"><ol><li><a href="#ngrok">ngrok</a></li></ol></nav>'
+            __html: '<nav class="toc"><ol><li><a href="#ss">SS</a></li><li><a href="#ngrok">ngrok</a></li></ol></nav>'
         } }),
     'author': "asa1253",
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:18:33.000Z",
+    'date': "2021-01-09T01:05:54.000Z",
     'updated': null,
     'excerpt': "SS - 小飞机地址发布 - 游讯游戏加速器 ngrok - Sunny-Ngrok",
     'cover': undefined,

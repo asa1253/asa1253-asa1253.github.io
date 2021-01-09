@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-08T12:18:33.000Z",
+    'date': "2021-01-09T01:05:54.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined,
