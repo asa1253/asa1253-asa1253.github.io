@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-09T01:05:54.000Z",
+    'date': "2021-03-07T10:11:18.000Z",
     'updated': null,
     'excerpt': "steam教程 - 如何使用 ASF 挂卡 | Mogeko`s Blog - Steam/Game-specific troubleshooting - ArchWiki",
     'cover': undefined,

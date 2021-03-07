@@ -29,7 +29,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-01-09T01:05:54.000Z",
+    'date': "2021-03-07T10:11:18.000Z",
     'updated': null,
     'excerpt': "临时收集 - Offcloud.com - Web Application - Steam 雲激活 - Steam雲激活 - 利用Huginn抓取任意网站RSS和微信公众号更新-打造一站式信息阅读平台 - 挖站否-挖掘建站的乐趣 - 收集控: 直播源收集 - Leonn 的博客 - lede ipk -...",
     'cover': undefined,
