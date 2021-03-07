@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': "视频收集 - 片源网 !! - 字幕库 !! - 条子骇客 - 终结者外传 - 四十七浪人 - 有希望的男人完整版 - 波西杰克逊与神火之盗 - 布鲁诺 - 开错鬼门关 - 浪漫刺客完整版 - 我们是夜晚 - 新猛鬼街 - 在路上 - 色即是空 - 长大成人2 -...",
     'cover': undefined,
@@ -50,7 +50,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",

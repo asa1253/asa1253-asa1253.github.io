@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': "blog - 纸小墨 | 构建只为纯粹书写的博客 - 长腿蜘蛛-CTspider|WordPress自动采集发布插件 - LIOLOG - 尝试使用Arch Linux | 灰灰 の blog Maverick/blog - 使用GitHub Action自动部署WIKI站点（Maverick）至腾讯云开发 - 风也...",
     'cover': undefined,
@@ -50,7 +50,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",

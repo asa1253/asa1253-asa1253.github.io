@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': "缺氧 - 缺氧高压制氧方法 - 缺氧攻略 - 免费下载 Factorio - 【模块千瓶】全套蓝图分享异星工厂吧 - Industrial Revolution - Factorio Mods - 【设计规划】发几种不同的火车站系统。【异星工厂吧】",
     'cover': undefined,
@@ -50,7 +50,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",

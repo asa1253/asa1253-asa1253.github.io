@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': "DNS - Client Area - Freenom - My No-IP !! - CloudFlarey - https://nic.eu.org/ - NextDNS cloud - Microsoft DreamSpark - Microsoft Azure - IBM Bluemix - yandex网盘 - BlueMix免费Kubernetes-原生Docker容器停止供应转...",
     'cover': undefined,
@@ -50,7 +50,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",

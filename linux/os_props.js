@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': "系统工具 - 微PE工具箱 - huginn - GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http...",
     'cover': undefined,
@@ -50,7 +50,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",

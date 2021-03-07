@@ -32,7 +32,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': "linux - Shell脚本编程详解-吐血共享_百度文库 - Arch Linux办公环境安装配置纯小白包通过教程 - 简书 - Page 6 of 9 for Average Linux User | How to install, configure and use Linux. - 尝试使用Arch Linux | 灰灰 の blo...",
     'cover': undefined,
@@ -50,7 +50,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",

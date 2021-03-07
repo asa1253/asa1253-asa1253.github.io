@@ -22,6 +22,7 @@ export default {
                     'linux/linux.md',
                     'linux/os.md',
                 ],
+                expanded: false
             },
             {
                 text: '游戏',

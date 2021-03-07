@@ -30,7 +30,7 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:11:18.000Z",
+    'date': "2021-03-07T10:18:22.000Z",
     'updated': null,
     'excerpt': " - 正版中国 - 厘米天空 | 绿色软件与IT资源分享 - 异次元软件世界 - 软件改变生活！ - 如有乐享 - 蓝点网 - Leonn 的博客 - Jialezi `s blog - 合集网 | 信息资源大全 - 影子论坛-自由-简约-平等|办公软件|资源共享|创意交流-...",
     'cover': undefined,
@@ -48,7 +48,8 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ]
+            ],
+            "expanded": false
         },
         {
             "text": "游戏",
