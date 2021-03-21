@@ -1,7 +1,7 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "目录",
+        "text": "收藏",
         "link": "index.html"
     },
     'next': {
@@ -30,13 +30,14 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:18:22.000Z",
+    'date': "2021-03-21T13:04:47.000Z",
     'updated': null,
     'excerpt': " - 正版中国 - 厘米天空 | 绿色软件与IT资源分享 - 异次元软件世界 - 软件改变生活！ - 如有乐享 - 蓝点网 - Leonn 的博客 - Jialezi `s blog - 合集网 | 信息资源大全 - 影子论坛-自由-简约-平等|办公软件|资源共享|创意交流-...",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
+            "expanded": false,
             "children": [
                 {
                     "text": "linux教程",
@@ -48,11 +49,11 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ],
-            "expanded": false
+            ]
         },
         {
             "text": "游戏",
+            "expanded": false,
             "children": [
                 {
                     "text": "游戏",
@@ -73,6 +74,7 @@ export default {
         },
         {
             "text": "网站",
+            "expanded": false,
             "children": [
                 {
                     "text": "网络",
@@ -103,6 +105,7 @@ export default {
         },
         {
             "text": "学习",
+            "expanded": false,
             "children": [
                 {
                     "text": "学习",
@@ -113,6 +116,7 @@ export default {
         },
         {
             "text": "视频",
+            "expanded": false,
             "children": [
                 {
                     "text": "视频",
@@ -128,6 +132,7 @@ export default {
         },
         {
             "text": "临时",
+            "expanded": false,
             "children": [
                 {
                     "text": "临时",

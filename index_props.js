@@ -6,16 +6,16 @@ export default {
     'pagePath': "README.md",
     'layoutPath': "_layout.tsx",
     'outputPath': "index.html",
-    'title': "目录",
+    'title': "收藏",
     'content': React.createElement("article", { dangerouslySetInnerHTML: {
-            __html: '<h1>目录</h1>\n<ul>\n<li><a href="linux/index.html">linux</a></li>\n<li><a href="game/index.html">游戏</a></li>\n<li><a href="xue/index.html">学习</a></li>\n<li><a href="web/index.html">网站</a></li>\n<li><a href="video/index.html">视频</a></li>\n<li><a href="temp/index.html">临时</a></li>\n</ul>'
+            __html: '<h1>收藏</h1>\n<ul>\n<li><a href="linux/index.html">linux</a></li>\n<li><a href="game/index.html">游戏</a></li>\n<li><a href="xue/index.html">学习</a></li>\n<li><a href="web/index.html">网站</a></li>\n<li><a href="video/index.html">视频</a></li>\n<li><a href="temp/index.html">临时</a></li>\n</ul>'
         } }),
     'head': React.createElement("link", { href: "/favicon.png", rel: "icon", type: "image/png" }),
     'script': React.createElement(React.Fragment, null,
         React.createElement("script", { src: "https://cdn.pagic.org/react@16.13.1/umd/react.production.min.js" }),
         React.createElement("script", { src: "https://cdn.pagic.org/react-dom@16.13.1/umd/react-dom.production.min.js" }),
         React.createElement("script", { src: "/index.js", type: "module" })),
-    'contentTitle': React.createElement("h1", { key: "0" }, "\u76EE\u5F55"),
+    'contentTitle': React.createElement("h1", { key: "0" }, "\u6536\u85CF"),
     'contentBody': React.createElement("article", { dangerouslySetInnerHTML: {
             __html: '<ul>\n<li><a href="linux/index.html">linux</a></li>\n<li><a href="game/index.html">游戏</a></li>\n<li><a href="xue/index.html">学习</a></li>\n<li><a href="web/index.html">网站</a></li>\n<li><a href="video/index.html">视频</a></li>\n<li><a href="temp/index.html">临时</a></li>\n</ul>'
         } }),
@@ -24,13 +24,14 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:18:22.000Z",
+    'date': "2021-03-21T13:04:47.000Z",
     'updated': null,
     'excerpt': " - linux - 游戏 - 学习 - 网站 - 视频 - 临时",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
+            "expanded": false,
             "children": [
                 {
                     "text": "linux教程",
@@ -42,11 +43,11 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ],
-            "expanded": false
+            ]
         },
         {
             "text": "游戏",
+            "expanded": false,
             "children": [
                 {
                     "text": "游戏",
@@ -67,6 +68,7 @@ export default {
         },
         {
             "text": "网站",
+            "expanded": false,
             "children": [
                 {
                     "text": "网络",
@@ -97,6 +99,7 @@ export default {
         },
         {
             "text": "学习",
+            "expanded": false,
             "children": [
                 {
                     "text": "学习",
@@ -107,6 +110,7 @@ export default {
         },
         {
             "text": "视频",
+            "expanded": false,
             "children": [
                 {
                     "text": "视频",
@@ -122,6 +126,7 @@ export default {
         },
         {
             "text": "临时",
+            "expanded": false,
             "children": [
                 {
                     "text": "临时",

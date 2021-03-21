@@ -8,8 +8,8 @@ export default {
     head: React.createElement("link", { rel: "icon", type: "image/png", href: "/favicon.png" }),
     nav: [
         {
-            text: '本网站使用 Pagic 构建',
-            link: 'https://github.com/xcatliu/pagic',
+            text: '源码',
+            link: 'https://github.com/asa1253/asa1253.github.io',
             target: '_blank',
         },
     ],
@@ -18,14 +18,15 @@ export default {
             '/README.md',
             {
                 text: 'linux',
+                expanded: false,
                 children: [
                     'linux/linux.md',
                     'linux/os.md',
                 ],
-                expanded: false
             },
             {
                 text: '游戏',
+                expanded: false,
                 children: [
                     'game/game.md',
                     'game/3dm.md',
@@ -34,6 +35,7 @@ export default {
             },
             {
                 text: '网站',
+                expanded: false,
                 children: [
                     'web/web.md',
                     'web/blog.md',
@@ -44,12 +46,14 @@ export default {
             },
             {
                 text: '学习',
+                expanded: false,
                 children: [
                     'xue/xue.md',
                 ],
             },
             {
                 text: '视频',
+                expanded: false,
                 children: [
                     'video/video.md',
                     'video/pt.md',
@@ -57,6 +61,7 @@ export default {
             },
             {
                 text: '临时',
+                expanded: false,
                 children: [
                     'temp/temp.md',
                 ],

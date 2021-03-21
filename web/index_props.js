@@ -1,7 +1,7 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "目录",
+        "text": "收藏",
         "link": "index.html"
     },
     'next': undefined,
@@ -27,13 +27,14 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:18:22.000Z",
+    'date': "2021-03-21T13:04:47.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
+            "expanded": false,
             "children": [
                 {
                     "text": "linux教程",
@@ -45,11 +46,11 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ],
-            "expanded": false
+            ]
         },
         {
             "text": "游戏",
+            "expanded": false,
             "children": [
                 {
                     "text": "游戏",
@@ -70,6 +71,7 @@ export default {
         },
         {
             "text": "网站",
+            "expanded": false,
             "children": [
                 {
                     "text": "网络",
@@ -100,6 +102,7 @@ export default {
         },
         {
             "text": "学习",
+            "expanded": false,
             "children": [
                 {
                     "text": "学习",
@@ -110,6 +113,7 @@ export default {
         },
         {
             "text": "视频",
+            "expanded": false,
             "children": [
                 {
                     "text": "视频",
@@ -125,6 +129,7 @@ export default {
         },
         {
             "text": "临时",
+            "expanded": false,
             "children": [
                 {
                     "text": "临时",

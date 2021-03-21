@@ -1,7 +1,7 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "目录",
+        "text": "收藏",
         "link": "index.html"
     },
     'next': {
@@ -32,13 +32,14 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:18:22.000Z",
+    'date': "2021-03-21T13:04:47.000Z",
     'updated': null,
     'excerpt': "上古卷轴 - 【新提醒】【授权汉化+分流】天际悬赏板（THE NOTICE BOARD）让你的天际不再乏味！！！ - 《上古卷轴5：天际》 - 3DMGAME论坛 - Powered by Discuz! - 【新提醒】【本猫的绅士技能第五弹】绅士之路永不停息，新的时...",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
+            "expanded": false,
             "children": [
                 {
                     "text": "linux教程",
@@ -50,11 +51,11 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ],
-            "expanded": false
+            ]
         },
         {
             "text": "游戏",
+            "expanded": false,
             "children": [
                 {
                     "text": "游戏",
@@ -75,6 +76,7 @@ export default {
         },
         {
             "text": "网站",
+            "expanded": false,
             "children": [
                 {
                     "text": "网络",
@@ -105,6 +107,7 @@ export default {
         },
         {
             "text": "学习",
+            "expanded": false,
             "children": [
                 {
                     "text": "学习",
@@ -115,6 +118,7 @@ export default {
         },
         {
             "text": "视频",
+            "expanded": false,
             "children": [
                 {
                     "text": "视频",
@@ -130,6 +134,7 @@ export default {
         },
         {
             "text": "临时",
+            "expanded": false,
             "children": [
                 {
                     "text": "临时",

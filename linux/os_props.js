@@ -1,7 +1,7 @@
 import projectConfig from '/pagic.config.js';
 export default {
     'prev': {
-        "text": "目录",
+        "text": "收藏",
         "link": "index.html"
     },
     'next': {
@@ -32,13 +32,14 @@ export default {
     'contributors': [
         "asa1253"
     ],
-    'date': "2021-03-07T10:18:22.000Z",
+    'date': "2021-03-21T13:04:47.000Z",
     'updated': null,
     'excerpt': "系统工具 - 微PE工具箱 - huginn - GitHub - MoeNetwork/Tieba-Cloud-Sign: 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能 http...",
     'cover': undefined,
     'sidebar': [
         {
             "text": "linux",
+            "expanded": false,
             "children": [
                 {
                     "text": "linux教程",
@@ -50,11 +51,11 @@ export default {
                     "link": "linux/os.html",
                     "pagePath": "linux/os.md"
                 }
-            ],
-            "expanded": false
+            ]
         },
         {
             "text": "游戏",
+            "expanded": false,
             "children": [
                 {
                     "text": "游戏",
@@ -75,6 +76,7 @@ export default {
         },
         {
             "text": "网站",
+            "expanded": false,
             "children": [
                 {
                     "text": "网络",
@@ -105,6 +107,7 @@ export default {
         },
         {
             "text": "学习",
+            "expanded": false,
             "children": [
                 {
                     "text": "学习",
@@ -115,6 +118,7 @@ export default {
         },
         {
             "text": "视频",
+            "expanded": false,
             "children": [
                 {
                     "text": "视频",
@@ -130,6 +134,7 @@ export default {
         },
         {
             "text": "临时",
+            "expanded": false,
             "children": [
                 {
                     "text": "临时",
